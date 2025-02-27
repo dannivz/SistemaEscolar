@@ -1,5 +1,61 @@
 # Getting Started with Create React App
 
+
+# Getting Started with Create React App
+
+
+---- PRIMERO QUE NADA PARA COMENZAR----
+
+1. INSTALAR NODE.JS
+2. TENER GIT
+3. TENER GITHUB
+4. DESCARGAR EL PROYECTO
+
+(PASOS GENERALES)
+
+1. CLONAR REPOSITORIO
+"git clone https://github.com/dannivz/SistemaEscolar.git"
+
+2. NAVETGAR AL DIRECTORIO
+"cd SistemaEscolar"
+
+3. INSTALAR DEPENDENCIAS
+"npm install"
+
+4. EJECUTAR EL PROYECTO
+ "npm start"
+
+5. Crear una Nueva Rama para el Trabajo (Para que no trabaje sobre la mia)
+"git checkout -b nombre-de-la-rama"
+
+6.Hacer Cambios y Cometerlos
+"git add ."
+
+7. HACER COMMITS CON MENSAJES DESCRIPTIVOS
+git commit -m "Descripción de los cambios"
+
+
+8. EMUUJAR PARA QUE SE DEN LOS CAMBIOS
+   "git push origin nombre-de-la-rama"
+
+
+9. Crear un Pull Request
+    
+Ve a la página del repositorio en GitHub.
+Crea un nuevo Pull Request desde la rama que acabas de empujar hacia la rama principal (main).
+
+ya teniendo todo eso, simplemente para abrir es usando
+
+http://localhost:3000
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
